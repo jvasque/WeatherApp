@@ -6,4 +6,4 @@ A project that get data from weather API and show cards with info weather from c
 
 In the App I use the weather API http://openweathermap.org/img/wn/
 
-If you'd like use the app, download the files and run npm i in your editor code favorite, then run npm start
+If you'd like use the app, download the files and run npm i , then run npm start
